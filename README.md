@@ -1,77 +1,43 @@
-# Hey 👋 I'm Arseniy
+# Hey there 👋
 
-### 💻 Frontend Developer (React / TypeScript)
+I'm Arseniy, a frontend developer focused on building clean, responsive, and user-friendly web apps.
 
----
+I mostly work with React and TypeScript, using Tailwind CSS for styling and Framer Motion to bring interfaces to life with smooth animations. I'm also a big fan of Feature-Sliced Design (FSD) and always try to keep my project architecture clean and maintainable.
 
-## 🧠 About Me
-- ⚛️ Focused on React ecosystem and modern frontend
-- 🚀 Building real-world web apps
-- 🧩 Love clean architecture (FSD mindset)
-- 📱 Care about UI, UX and responsiveness
+Right now, I'm focusing on building API-heavy applications, practicing advanced FSD patterns, and sharpening my UI/UX design skills.
 
 ---
 
-## 🛠 Tech Stack
+## Tools & Tech
 
-### Core
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-### State & Forms
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge)
-
-### API & Backend
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### UI / Styling
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge)
-
-### Architecture
-![Feature-Sliced Design](https://img.shields.io/badge/FSD-111111?style=for-the-badge)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Pixso](https://img.shields.io/badge/Pixso-000000?style=for-the-badge)
+* **Core:** React, TypeScript, JavaScript, Vite
+* **State & Forms:** Zustand, React Hook Form
+* **API & Backend:** REST API, Axios, Firebase, i18next
+* **Styling & Motion:** Tailwind CSS, Framer Motion
+* **Architecture:** Feature-Sliced Design (FSD mindset)
+* **Design & Tools:** Figma, Pixso, Git, Linux, npm
 
 ---
 
-## 🌍 i18n
-![i18next](https://img.shields.io/badge/i18next-26A69A?style=for-the-badge)
+## A Bit About Me
+
+* 🧩 I love clean architecture and writing code that is easy to understand
+* 📱 I care deeply about UI, UX, and making sure layouts are perfectly responsive
+* 📦 Currently working on a Portfolio Website and an API Dashboard built with FSD
+* 🚀 Always experimenting with new frontend tools and deep-diving into the React ecosystem
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=byte-me-now&show_icons=true&theme=tokyonight&include_all_commits=true)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byte-me-now&layout=compact&theme=tokyonight)
-
----
-
-## 🚀 Focus Right Now
-- ⚛️ React + TypeScript deep dive  
-- 🧠 FSD architecture practice  
-- 🌐 API-heavy apps (REST + Firebase)  
-- 📱 Responsive UI / UX improvement  
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=byte-me-now&show_icons=true&theme=tokyonight&include_all_commits=true" height="150" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byte-me-now&layout=compact&theme=tokyonight" height="150" alt="Languages" />
+</p>
 
 ---
 
-## 📂 Projects
-- 🌐 Portfolio Website (React + TS + Framer Motion)
-- 📦 API Dashboard (REST + Axios + FSD)
+## Contact
 
----
-
-## 📫 Contact
-- Telegram: @rxxmet
-- Email: byte-me-web@proton.me
+* **Telegram:** [@rxxmet](https://t.me)
+* **Email:** byte-me-web@proton.me
