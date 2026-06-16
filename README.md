@@ -52,7 +52,7 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=byte-me-now&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=byte-me-now&show_icons=true&theme=tokyonight&include_all_commits=true)
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byte-me-now&layout=compact&theme=tokyonight)
 
