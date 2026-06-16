@@ -67,7 +67,6 @@
 ---
 
 ## 📂 Projects
-- 💬 Chat App (React + Firebase + Zustand)
 - 🌐 Portfolio Website (React + TS + Framer Motion)
 - 📦 API Dashboard (REST + Axios + FSD)
 
