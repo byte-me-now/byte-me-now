@@ -74,5 +74,5 @@
 ---
 
 ## 📫 Contact
-- Telegram: @yourname
-- Email: yourmail@example.com
+- Telegram: @rxxmet
+- Email: byte-me-web@proton.me
